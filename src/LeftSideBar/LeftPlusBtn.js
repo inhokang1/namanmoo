@@ -6,4 +6,6 @@ function LeftPlusBtn ({onChange}){
     }}className='btn'>+</button>
   );
 }
+
+
 export default LeftPlusBtn;
